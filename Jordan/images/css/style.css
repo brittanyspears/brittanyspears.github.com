@@ -1,0 +1,115 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+
+body.container-fluid {
+    background-color: white;
+    color: black;
+    height: 100%;
+    margin: 0px;
+}
+
+.logo {
+    width: 50%;
+    margin: 0px auto;
+    display: block;
+}
+
+footer {
+    background-color: palegreen ;
+    color: white;
+    position: absolute;
+    bottom: ;100;
+    width: 100%;
+    padding: 10px;
+} 
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+================================================================== */
+
+.lorem-ipsum {
+    
+}
+
+#the-blogs {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.blog {
+    padding:  50px;
+    margin: 50px;
+    background-color: palegreen;
+    font-family: cursive;
+    color: black;
+    font-size: 25px;
+   
+}
+
+.blog-title {
+    color: black;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.date-posted {
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.about-us{
+  font-family: cursive;
+  margin: 50px;
+  padding: 50px;
+  background: palegreen;
+  color: black;
+  font-size: 20px;
+}
+
+.about-us-title {
+    color: black;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.hotpicofme{
+    width: 15%;
+}
+ 
+.anotherhotpicofme{
+    width:15%;
+    align-content: center;
+}
+
+.author {
+    color: black;
+    font-size: 25px;
+    font-family:cursive;
+}
+
+.col-md-6 {
+    width: 10%;
+    align-items: stretch;
+    color: black;
+   
+}
+
+.ingredients {
+    margin: 20px auto;
+    color: black;
+}
+
+
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
