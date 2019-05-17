@@ -24,8 +24,8 @@ footer {
     background-color: black;
     color: white;
     position: absolute;
-    bottom: ;100;
-    width: 100%;
+    
+    width: 95%;
     padding: 10px;
 } 
 
@@ -91,6 +91,16 @@ CSS FOR BLOGS
     align-content: center;
 }
 
+.no {
+    width: 20%;
+    display:inline;
+    margin: 0; 
+    padding:0;
+    max-height: 200px;
+    max-width: 200px;
+    align-content: center;
+} 
+
 .author {
     color: black;
     font-size: 25px;
@@ -98,6 +108,41 @@ CSS FOR BLOGS
 }
 
 
-
 /*-- Keep all your "styling and designs" organized with comments! --*/
+
+.poop {
+    background-color: palegreen;
+}
+
+.ic-pics {
+
+}
+
+.cacaflavored {
+    color: black;
+    text-align: center;
+    background-color: palegreen;
+    padding:  10px;
+    margin: 20px;
+}
+
+.icInACup {
+    max-height: 450px;
+}
+
+
+.cacac {
+    color: black;
+    text-align: center;
+    background-color: palegreen;
+    padding:  10px;
+    margin: 20px;
+}
+
+.flavorofday {
+   align-content: center;
+    
+}
+
+
 
