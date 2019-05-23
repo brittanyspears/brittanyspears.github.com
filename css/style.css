@@ -46,8 +46,9 @@ CSS FOR BLOGS
 }
 
 .blog {
-    padding:  50px;
-    margin: 50px;
+    width:65%;
+    padding: 50px;
+    margin: 40px auto;
     background-color: palegreen;
     font-family: cursive;
     color: black;
@@ -69,11 +70,12 @@ CSS FOR BLOGS
 
 .about-us{
   font-family: cursive;
-  margin: 50px;
-  padding: 50px;
+  margin: 80px;
+  padding: 10px;
   background: palegreen;
   color: black;
-  font-size: 20px;
+  font-size: 22px;
+    width: 20% auto;
 }
 
 .about-us-title {
@@ -83,11 +85,11 @@ CSS FOR BLOGS
 }
 
 .hotpicofme{
-    width: 15%;
+    width: 10%;
 }
  
 .anotherhotpicofme{
-    width:15%;
+    width:10%;
     align-content: center;
 }
 
@@ -123,7 +125,8 @@ CSS FOR BLOGS
     text-align: center;
     background-color: palegreen;
     padding:  10px;
-    margin: 20px;
+    margin: 20px auto;
+    width: 20%;
 }
 
 .icInACup {
@@ -136,11 +139,13 @@ CSS FOR BLOGS
     text-align: center;
     background-color: palegreen;
     padding:  10px;
-    margin: 20px;
+    margin: 20px auto;
+    width: 20%;
 }
 
 .flavorofday {
    align-content: center;
+    
     
 }
 
